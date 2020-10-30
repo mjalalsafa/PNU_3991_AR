@@ -40,7 +40,7 @@
     <th ></th>
     <th ></th>
     <th></th>
-    <th><a تعامل انسان و كامپيوتر</a></th>
+    <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction"> شبکه های کامپیوتری</a></th>
     <th>شنبه</th>
   </tr>
    <tr>
