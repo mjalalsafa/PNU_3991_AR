@@ -28,6 +28,7 @@
 
 <table style="width:100%">
   <tr>
+    <th >18-20</th>
     <th >16-18</th>
     <th >14-16</th>
     <th >12-14</th>
@@ -39,11 +40,13 @@
     <th ></th>
     <th ></th>
     <th ></th>
+    <th ></th>
     <th></th>
     <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction"> شبکه های کامپیوتری</a></th>
     <th>شنبه</th>
   </tr>
    <tr>
+    <th ></th>
     <th ></th>
     <th ></th>
     <th ></th>
@@ -54,12 +57,14 @@
    <tr>
      <th ></th>
      <th ></th>
+     <th ></th>
      <th></th>
     <th></th>
     <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction">تعامل انسان و كامپيوتر</a></th>   
     <th>دوشنبه</th>
   </tr>
    <tr>
+    <th ></th>
     <th ></th>
     <th ></th>
     <th></th>
@@ -70,6 +75,7 @@
    <tr>
     <th ></th>
     <th ></th>
+    <th ></th>
     <th></th>
     <th></th>
      <th ></th>
@@ -77,6 +83,7 @@
   </tr>
    <tr>
    <th ></th>
+    <th ></th>
     <th ></th>
      <th ></th>
          <th ></th>
