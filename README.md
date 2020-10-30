@@ -64,7 +64,7 @@
     <th>دوشنبه</th>
   </tr>
    <tr>
-    <th ></th>
+    <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction">سیستم های عامل</a></th>
     <th ></th>
     <th ></th>
     <th></th>
