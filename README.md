@@ -16,7 +16,7 @@
 ## دروس کارشناسی
 
 
-[1322108_01 تعامل انسان و كامپيوتر 3](https://github.com/mim-asadpour/PNU_3991_AR/tree/main/HumanComputerInteraction)
+[1322108_01 تعامل انسان و كامپيوتر 3](https://github.com/mjalalsafa/PNU_3991_AR/tree/main/HumanComputerInteraction)
 <br>
 
 
