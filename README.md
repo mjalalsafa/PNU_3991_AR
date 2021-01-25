@@ -9,6 +9,8 @@
 
 - [ارزیابی رزومه و انگیزه نامه](https://github.com/mjalalsafa/PNU_3991_AR/blob/main/_General/MJS_CV_CheckList_AR_3991.pdf)
 
+- [فعالیت مشترک](https://github.com/mjalalsafa/PNU_3991_AR/blob/main/_General/MJS_GeneralSection_CheckList_AR_3991.pdf)
+
 - [رزومه]()
 
 - [SOP]()
