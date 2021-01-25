@@ -5,9 +5,9 @@
 ---
 - [حساب گیت هاب](https://github.com/mjalalsafa)
 
-- [ارزیابی رزومه و انگیزه نامه](https://github.com/mjalalsafa/PNU_3991_AR/blob/main/_General/MJS_CV_CheckList_AR_3991.pdf)
+- [ارزیابی درس تعامل انسان با کامپیوتر](https://github.com/mjalalsafa/PNU_3991_AR/blob/main/HumanComputerInteraction/MJS_HumanComputerInteraction_CheckList_AR_3991.pdf)
 
--[ارزیابی درس تعامل انسان با کامپیوتر](https://github.com/mjalalsafa/PNU_3991_AR/blob/main/HumanComputerInteraction/MJS_HumanComputerInteraction_CheckList_AR_3991.pdf)
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/mjalalsafa/PNU_3991_AR/blob/main/_General/MJS_CV_CheckList_AR_3991.pdf)
 
 - [رزومه]()
 
